@@ -7,8 +7,6 @@ This is implementation of matrix library in C language
    1.1. [Introduction](#introduction)
 2. [Chapter II](#chapter-ii) \
    2.1. [Information](#information)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-implementation-of-the-matrixh-library-functions)
 
 
 # Chapter I  
